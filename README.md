@@ -8,7 +8,7 @@ Projeto para marcação de pontos e presença de pessoas de um grupo.
 - [ ] Programação
 - [ ] PontosDia
 
--CRUD
+- CRUD
 - [x] Pessoa
 - [ ] Programação
 - [ ] PontosDia
